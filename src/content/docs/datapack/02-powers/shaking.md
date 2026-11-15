@@ -23,11 +23,11 @@ The shake is the same body yaw wobble vanilla uses, so other players see it on t
 
 ```json
 {
-  	"type": "apoli:shaking",
-  	"condition": {
-    	"type": "apoli:on_fire",
-      "inverted": true
-  	}
+    "type": "apoli:shaking",
+    "condition": {
+        "type": "apoli:on_fire",
+        "inverted": true
+    }
 }
 ```
 
